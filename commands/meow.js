@@ -1,5 +1,4 @@
 const {prefix} = require("../config.json");
-const client = require("../bot.js");
 
 module.exports = {
     name: 'meow',
